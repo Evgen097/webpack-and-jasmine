@@ -1,0 +1,22 @@
+
+Пример использования, для начала нового проекта:
+
+npm i -g webpack
+webpack
+
+npm i -g webpack-dev-server
+webpack-dev-server
+
+webpack-dev нужно использовать:
+<script src="/build/index.js"></script>
+виртуальную папку
+и открываем localhost:8080 все должно компилится и обновлятся на лету
+
+
+echo "# webpack-example" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Evgen097/webpack-example.git
+git push -u origin master
+
