@@ -20,3 +20,5 @@ git commit -m "first commit"
 git remote add origin https://github.com/Evgen097/webpack-example.git
 git push -u origin master
 
+Можно это попробовать:
+https://github.com/shellscape/webpack-plugin-serve
