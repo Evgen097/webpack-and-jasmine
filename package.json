@@ -10,8 +10,12 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --progress --colors --hot",
     "watch": "webpack -w"
-
   },
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "jasmine-node": "^3.0.0"
+  },
+  "dependencies": {
+    "eslint": "^4.4.0"
+  }
 }
